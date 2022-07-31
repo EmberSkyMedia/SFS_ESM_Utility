@@ -5,13 +5,13 @@ Upcoming Next Release Items
 1. Truss Seperators, now you can see what is between your stages (also capable of changing colour/shapes)
 2. Cargobay, for when you want to launch a shuttle worth of payload.
 3. 45 Degree struts and connector for more elaborate super structures
+4. Rover Core (a rover core without torque so its harder to flip your rover in low-grav situations)
 
 Future Planned Items
 1. Hinged Fairlings, because they look cool.
 2. Flag, make your mark on alien soil.
-3. Rover Core (a rover core without torque so its harder to flip your rover in low-grav situations)
-4. Pocket Landing Gears, for when you want to be fancy!
-5. Walker system, cause rolling is for wusses.
+3. Pocket Landing Gears, for when you want to be fancy!
+4. Walker system, cause rolling is for wusses.
 
 Check out this preview video!
 [![Truss Seperator v1](https://user-images.githubusercontent.com/109048742/182002450-01cd24e1-5ef5-48a2-b9f5-181500a64ac5.jpg)](https://youtu.be/GSyi6GFXHUo)

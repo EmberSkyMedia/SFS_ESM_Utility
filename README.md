@@ -17,3 +17,5 @@ Check out this preview video!
 [![Truss Seperator v1](https://user-images.githubusercontent.com/109048742/182002450-01cd24e1-5ef5-48a2-b9f5-181500a64ac5.jpg)](https://youtu.be/GSyi6GFXHUo)
 
 Note this is a BETA mod, so parts subject to improvements with later release updates.
+
+[**_Be sure to subscribe to Pico Space Industries YouTube channel which is sponsoring this engine pack!_**](https://www.youtube.com/channel/UCgPjBqQ1IptrZai4oLVZrXA/?sub_confirmation=1)

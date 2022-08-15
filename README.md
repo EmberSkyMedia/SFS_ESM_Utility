@@ -18,4 +18,4 @@ Check out this preview video!
 
 Note this is a BETA mod, so parts subject to improvements with later release updates.
 
-[**_Be sure to subscribe to Pico Space Industries YouTube channel which is sponsoring this pack! And Mention PicoSpace Industries and link in the description if you use these items in your own YouTube videos_**](https://www.youtube.com/channel/UCgPjBqQ1IptrZai4oLVZrXA/?sub_confirmation=1)
+[**_Be sure to subscribe to Pico Space Industries YouTube channel which is sponsoring this pack! It is REQUIRED that you mention PicoSpace Industries in your videos and link in the description to PicoSpace YT if you use these items in your own YouTube videos_**](https://www.youtube.com/channel/UCgPjBqQ1IptrZai4oLVZrXA/?sub_confirmation=1)

@@ -3,7 +3,8 @@ Spaceflight Simulator Custom Part Pack with some Utilities that expand the exper
 
 CHECK OUT THIS VIDEO!
 
-[![Utility Pack Video](https://user-images.githubusercontent.com/109048742/184973492-25005c89-3efe-4f19-930b-30d4317a45e4.jpg)](https://youtu.be/OOuBHnekdi4)
+
+[![Uility Pack v2](https://user-images.githubusercontent.com/109048742/184974397-2e7d5b36-71c5-4a0e-9494-a4be4f7b2a84.jpg)](https://youtu.be/OOuBHnekdi4)
 
 Currently Release Items
 1. Truss Separators, now you can see what is between your stages

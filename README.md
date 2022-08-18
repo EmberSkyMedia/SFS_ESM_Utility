@@ -15,7 +15,7 @@ Currently Release Items
 6. Vent port for venting fuel needlessly into space
 7. Petal Fairings
 8. MegaCHUTE Deorbiter - a giant high altitude parachute
-9. Vertical Landing Gear
+9. Vertical Landing Gear (3 Sizes!)
 10. Engine Breakaway system
 11. Solar Radiators for reducing heat and generating electricity
 

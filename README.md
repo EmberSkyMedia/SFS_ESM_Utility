@@ -1,6 +1,9 @@
 # SFS_ESM_Utility
 Spaceflight Simulator Custom Part Pack with some Utilities that expand the experiance but don't break game mechanics.
 
+
+N2O4's electricity pack is required: https://github.com/DinitrogenTetroxide/sfs-electricity
+
 CHECK OUT THIS VIDEO!
 
 

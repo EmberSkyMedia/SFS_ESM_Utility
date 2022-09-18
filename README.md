@@ -4,8 +4,9 @@ Spaceflight Simulator Custom Part Pack with some Utilities that expand the exper
 
 N2O4's electricity pack is required: https://github.com/DinitrogenTetroxide/sfs-electricity
 
-CHECK OUT THIS VIDEO!
+CHECK OUT THESE VIDEOS!
 
+[![Utility 4 Live Thumbnail](https://user-images.githubusercontent.com/109048742/190921263-cd4f90e8-6bad-496f-a35b-248aae57f367.jpg)](https://youtu.be/oMRUxrwK4_g)
 
 [![Uility Pack v2](https://user-images.githubusercontent.com/109048742/184974397-2e7d5b36-71c5-4a0e-9494-a4be4f7b2a84.jpg)](https://youtu.be/OOuBHnekdi4)
 

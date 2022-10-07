@@ -22,6 +22,7 @@ Currently Release Items
 9. Vertical Landing Gear (3 Sizes!)
 10. Engine Breakaway system
 11. Solar Radiators for reducing heat and generating electricity
+12. Tri-chute - Three chute in one.
 
 Future Planned Items
 1. Flag, make your mark on alien soil.
